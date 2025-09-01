@@ -1,5 +1,7 @@
 # 🚗 Car Speed Simulation
 
+🌐 **Live Demo**: [speedsimulator.tech](https://speedsimulator.tech)
+
 ## 📖 Project Overview
 
 **Car Speed Simulation** is a comprehensive vehicle simulation platform that combines real-world routing, physics-based speed modeling, and advanced GPS fusion techniques. The system simulates realistic vehicle behavior on actual road networks, taking into account elevation changes, road grades, traffic conditions, and vehicle dynamics.
