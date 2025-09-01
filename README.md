@@ -1,6 +1,6 @@
 # 🚗 Car Speed Simulation
 
-🌐 **Live Demo**: [speedsimulator.tech](https://speedsimulator.tech)
+🌐 **Live Demo**: [speedsimulator.tech](https://13.51.157.65)
 
 ## 📖 Project Overview
 
