@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: eigen
+Version: 0.1.1
+Summary: Methods for solving eigenproblems Python
+Author-email: Nico Schlömer <nico.schloemer@gmail.com>
+Keywords: mathematics
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: x21 (>=0.5.2)
+Requires-Dist: numpy
+Requires-Dist: stonefish-license-manager
+
+# eigen
+
+[![PyPi Version](https://img.shields.io/pypi/v/eigen.svg?style=flat-square)](https://pypi.org/project/eigen/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/eigen.svg?style=flat-square)](https://pypi.org/project/eigen/)
+[![PyPi downloads](https://img.shields.io/pypi/dm/eigen.svg?style=flat-square)](https://pypistats.org/packages/eigen)
+
+Python package for solving eigenproblems in Python.
+
+Methods:
+
+- `eigen.lanczos`
+- `eigen.power`
+- `eigen.rayleigh_quotient`
+
+More methods are to follow.
+
+### Books
+
+- [Yussuf Saad, _Numerical methods for large eigenvalue problems_,
+  2011](https://www-users.cse.umn.edu/~saad/eig_book_2ndEd.pdf)

@@ -1,0 +1,70 @@
+{
+  "enhanced_result": [
+    {
+      "acceleration_ms2": 0.5939268749999999,
+      "distance": 10.0,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 27.292725050046386,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.015,
+      "fused_lon": 29.01,
+      "heading_deg": 0.0,
+      "lat": 41.015,
+      "lon": 29.01,
+      "optimal_speed_kmh": 80.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 890.8903124999998,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 0.21381367499999995,
+      "target_speed_kmh": 80.0,
+      "time_sec": 0.0,
+      "turn_deg": 0.0,
+      "waypoint": 1
+    },
+    {
+      "acceleration_ms2": 0.5938382183170877,
+      "distance": 10.0,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 54.581376059040885,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.016,
+      "fused_lon": 29.011,
+      "heading_deg": 0.0,
+      "lat": 41.016,
+      "lon": 29.011,
+      "optimal_speed_kmh": 80.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 890.7573274756315,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 0.42759543359415153,
+      "target_speed_kmh": 80.0,
+      "time_sec": 0.1,
+      "turn_deg": 0.0,
+      "waypoint": 2
+    }
+  ],
+  "statistics": {
+    "max_power_kw": 150.0,
+    "physics_engine": "C++ Real Physics",
+    "total_points": 2,
+    "vehicle_mass_kg": 1500.0
+  }
+}

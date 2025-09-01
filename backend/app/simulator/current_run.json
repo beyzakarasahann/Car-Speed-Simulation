@@ -1,0 +1,2117 @@
+{
+  "enhanced_result": [
+    {
+      "acceleration_ms2": 0.5939268749999999,
+      "distance": 0.0,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 27.292725050046386,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.015139,
+      "fused_lon": 29.010956,
+      "heading_deg": 0.0,
+      "lat": 41.015139,
+      "lon": 29.010956,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 890.8903124999998,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 0.21381367499999995,
+      "target_speed_kmh": 50.0,
+      "time_sec": 0.0,
+      "turn_deg": 0.0,
+      "waypoint": 1,
+      "kalman_accuracy": 2.4000000000000004,
+      "original_lat": 41.015139,
+      "original_lon": 29.010956,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5938382183170877,
+      "distance": 11.189261668145678,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 54.581376059040885,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.015040299999995,
+      "fused_lon": 29.0109812,
+      "heading_deg": 0.0,
+      "lat": 41.015040299999995,
+      "lon": 29.0109812,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 890.7573274756315,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 0.42759543359415153,
+      "target_speed_kmh": 50.0,
+      "time_sec": 0.1,
+      "turn_deg": 0.0,
+      "waypoint": 2,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01481,
+      "original_lon": 29.01104,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5937470547460026,
+      "distance": 18.662121852559668,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 81.86583782793709,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01487521,
+      "fused_lon": 29.01101984,
+      "heading_deg": 0.0,
+      "lat": 41.01487521,
+      "lon": 29.01101984,
+      "optimal_speed_kmh": 20.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 890.620582119004,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 0.6413443733027125,
+      "target_speed_kmh": 20.0,
+      "time_sec": 0.2,
+      "turn_deg": 0.0,
+      "waypoint": 3,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01449,
+      "original_lon": 29.01111,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5936533858161825,
+      "distance": 13.415407468869365,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 109.14599522797087,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.014762647,
+      "fused_lon": 29.011076887999998,
+      "heading_deg": 0.0,
+      "lat": 41.014762647,
+      "lon": 29.011076887999998,
+      "optimal_speed_kmh": 20.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 890.4800787242738,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 0.8550595921965383,
+      "target_speed_kmh": 20.0,
+      "time_sec": 0.30000000000000004,
+      "turn_deg": 0.0,
+      "waypoint": 4,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.0145,
+      "original_lon": 29.01121,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5935572130991846,
+      "distance": 2.48952184305173,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 136.42173320259585,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.0147798529,
+      "fused_lon": 29.011095821599998,
+      "heading_deg": 0.0,
+      "lat": 41.0147798529,
+      "lon": 29.011095821599998,
+      "optimal_speed_kmh": 22.903778277735537,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 890.3358196487769,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 1.0687401889122448,
+      "target_speed_kmh": 22.903778277735537,
+      "time_sec": 0.4,
+      "turn_deg": 0.0,
+      "waypoint": 5,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01482,
+      "original_lon": 29.01114,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5934585382086288,
+      "distance": 13.74578994435484,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 163.69293676941635,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01490289703,
+      "fused_lon": 29.011082075119997,
+      "heading_deg": 0.0,
+      "lat": 41.01490289703,
+      "lon": 29.011082075119997,
+      "optimal_speed_kmh": 36.90416650772556,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 890.1878073129433,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 1.282385262667351,
+      "target_speed_kmh": 36.90416650772556,
+      "time_sec": 0.5,
+      "turn_deg": 0.0,
+      "waypoint": 6,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01519,
+      "original_lon": 29.01105,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5933573628001406,
+      "distance": 14.709972808882862,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 190.95949102211767,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.015034027921,
+      "fused_lon": 29.011060452583997,
+      "heading_deg": 0.0,
+      "lat": 41.015034027921,
+      "lon": 29.011060452583997,
+      "optimal_speed_kmh": 46.202689632852454,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 890.0360442002109,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 1.4959939132754017,
+      "target_speed_kmh": 46.202689632852454,
+      "time_sec": 0.6000000000000001,
+      "turn_deg": 0.0,
+      "waypoint": 7,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01534,
+      "original_lon": 29.01101,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5932536885712919,
+      "distance": 19.982345187728868,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 218.22128113239367,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.015209819544694,
+      "fused_lon": 29.0110123168088,
+      "heading_deg": 0.0,
+      "lat": 41.015209819544694,
+      "lon": 29.0110123168088,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 889.8805328569379,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 1.709565241161067,
+      "target_speed_kmh": 50.0,
+      "time_sec": 0.7000000000000001,
+      "turn_deg": 0.0,
+      "waypoint": 8,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01562,
+      "original_lon": 29.0109,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5931475172615407,
+      "distance": 18.939375721321507,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 245.47819235187143,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01537487368129,
+      "fused_lon": 29.01095762176616,
+      "heading_deg": 0.0,
+      "lat": 41.01537487368129,
+      "lon": 29.01095762176616,
+      "optimal_speed_kmh": 58.836355136539765,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 889.721275892311,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 1.9230983473752212,
+      "target_speed_kmh": 58.836355136539765,
+      "time_sec": 0.8,
+      "turn_deg": 0.0,
+      "waypoint": 9,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01576,
+      "original_lon": 29.01083,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5930388506521682,
+      "distance": 23.288010009409994,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 272.73011001403336,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.0155744115769,
+      "fused_lon": 29.010874335236313,
+      "heading_deg": 0.0,
+      "lat": 41.0155744115769,
+      "lon": 29.010874335236313,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 889.5582759782524,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 2.1365923336100017,
+      "target_speed_kmh": 50.0,
+      "time_sec": 0.9,
+      "turn_deg": 0.0,
+      "waypoint": 10,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01604,
+      "original_lon": 29.01068,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5929276905662166,
+      "distance": 31.22207614103979,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 299.97691953613605,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01583708810383,
+      "fused_lon": 29.010744034665418,
+      "heading_deg": 0.0,
+      "lat": 41.01583708810383,
+      "lon": 29.010744034665418,
+      "optimal_speed_kmh": 63.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 889.391535849325,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 2.3500463022138396,
+      "target_speed_kmh": 63.0,
+      "time_sec": 1.0,
+      "turn_deg": 0.0,
+      "waypoint": 11,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01645,
+      "original_lon": 29.01044,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5928140388684229,
+      "distance": 28.341276537189646,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 327.21850642112656,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01607196167268,
+      "fused_lon": 29.010613824265793,
+      "heading_deg": 0.0,
+      "lat": 41.01607196167268,
+      "lon": 29.010613824265793,
+      "optimal_speed_kmh": 70.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 889.2210583026343,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 2.563459356206472,
+      "target_speed_kmh": 70.0,
+      "time_sec": 1.1,
+      "turn_deg": 0.0,
+      "waypoint": 12,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01662,
+      "original_lon": 29.01031,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5926978974651529,
+      "distance": 26.976661704571722,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 354.454756259555,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.016290373170875,
+      "fused_lon": 29.010474676986053,
+      "heading_deg": 0.0,
+      "lat": 41.016290373170875,
+      "lon": 29.010474676986053,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 889.0468461977293,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 2.7768305992939273,
+      "target_speed_kmh": 50.0,
+      "time_sec": 1.2000000000000002,
+      "turn_deg": 0.0,
+      "waypoint": 13,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.0168,
+      "original_lon": 29.01015,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5925792683043336,
+      "distance": 34.61160703849006,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 381.6855547314845,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01655726121962,
+      "fused_lon": 29.01026327389024,
+      "heading_deg": 0.0,
+      "lat": 41.01655726121962,
+      "lon": 29.01026327389024,
+      "optimal_speed_kmh": 66.14839137987794,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 888.8689024565005,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 2.9901591358834874,
+      "target_speed_kmh": 66.14839137987794,
+      "time_sec": 1.3,
+      "turn_deg": 0.0,
+      "waypoint": 14,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01718,
+      "original_lon": 29.00977,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5924581533753829,
+      "distance": 28.524462137683155,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 408.91078760839804,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01677408285373,
+      "fused_lon": 29.010082291723165,
+      "heading_deg": 0.0,
+      "lat": 41.01677408285373,
+      "lon": 29.010082291723165,
+      "optimal_speed_kmh": 63.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 888.6872300630744,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 3.203444071098625,
+      "target_speed_kmh": 63.0,
+      "time_sec": 1.4000000000000001,
+      "turn_deg": 0.0,
+      "waypoint": 15,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01728,
+      "original_lon": 29.00966,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.59233455470914,
+      "distance": 28.07186633292254,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 436.13034075510177,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01697685799761,
+      "fused_lon": 29.009883604206216,
+      "heading_deg": 0.0,
+      "lat": 41.01697685799761,
+      "lon": 29.009883604206216,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 888.50183206371,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 3.416684510793915,
+      "target_speed_kmh": 50.0,
+      "time_sec": 1.5,
+      "turn_deg": 0.0,
+      "waypoint": 16,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01745,
+      "original_lon": 29.00942,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5922084743777921,
+      "distance": 32.841355460708115,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 463.34410013162534,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01719980059833,
+      "fused_lon": 29.00962752294435,
+      "heading_deg": 0.0,
+      "lat": 41.01719980059833,
+      "lon": 29.00962752294435,
+      "optimal_speed_kmh": 45.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 888.3127115666882,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 3.6298795615699206,
+      "target_speed_kmh": 45.0,
+      "time_sec": 1.6,
+      "turn_deg": 0.0,
+      "waypoint": 17,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01772,
+      "original_lon": 29.00903,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5920799144948006,
+      "distance": 28.094983721589596,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 490.55195179511765,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01739486041883,
+      "fused_lon": 29.009415266061044,
+      "heading_deg": 0.0,
+      "lat": 41.01739486041883,
+      "lon": 29.009415266061044,
+      "optimal_speed_kmh": 35.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 888.1198717422009,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 3.843028330788049,
+      "target_speed_kmh": 35.0,
+      "time_sec": 1.7000000000000002,
+      "turn_deg": 0.0,
+      "waypoint": 18,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01785,
+      "original_lon": 29.00892,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5919488772148267,
+      "distance": 24.16179605276813,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 517.7537819017414,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01757340229318,
+      "fused_lon": 29.00925168624273,
+      "heading_deg": 0.0,
+      "lat": 41.01757340229318,
+      "lon": 29.00925168624273,
+      "optimal_speed_kmh": 45.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 887.92331582224,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 4.0561299265853865,
+      "target_speed_kmh": 45.0,
+      "time_sec": 1.8,
+      "turn_deg": 0.0,
+      "waypoint": 19,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01799,
+      "original_lon": 29.00887,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5918153647336539,
+      "distance": 19.586581247189862,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 544.9494767085617,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.017725381605224,
+      "fused_lon": 29.009134180369912,
+      "heading_deg": 0.0,
+      "lat": 41.017725381605224,
+      "lon": 29.009134180369912,
+      "optimal_speed_kmh": 45.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 887.7230471004809,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 4.269183457889502,
+      "target_speed_kmh": 45.0,
+      "time_sec": 1.9000000000000001,
+      "turn_deg": 0.0,
+      "waypoint": 20,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01808,
+      "original_lon": 29.00886,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5916793792881105,
+      "distance": 26.065444238240485,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 572.1389225754331,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.017951767123655,
+      "fused_lon": 29.00905492625894,
+      "heading_deg": 0.0,
+      "lat": 41.017951767123655,
+      "lon": 29.00905492625894,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 887.5190689321659,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 4.482188034433222,
+      "target_speed_kmh": 50.0,
+      "time_sec": 2.0,
+      "turn_deg": 0.0,
+      "waypoint": 21,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01848,
+      "original_lon": 29.00887,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5915409231559898,
+      "distance": 31.607463592755032,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 599.322005966881,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01823323698656,
+      "fused_lon": 29.00900544838126,
+      "heading_deg": 0.0,
+      "lat": 41.01823323698656,
+      "lon": 29.00900544838126,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 887.3113847339847,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 4.695142766769378,
+      "target_speed_kmh": 50.0,
+      "time_sec": 2.1,
+      "turn_deg": 0.0,
+      "waypoint": 22,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01889,
+      "original_lon": 29.00889,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5913999986559689,
+      "distance": 28.070441325449046,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 626.4986134539813,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01848426589059,
+      "fused_lon": 29.00897381386688,
+      "heading_deg": 0.0,
+      "lat": 41.01848426589059,
+      "lon": 29.00897381386688,
+      "optimal_speed_kmh": 45.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 887.0999979839534,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 4.908046766285527,
+      "target_speed_kmh": 45.0,
+      "time_sec": 2.2,
+      "turn_deg": 0.0,
+      "waypoint": 23,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01907,
+      "original_lon": 29.0089,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5912566081475269,
+      "distance": 25.06899246506887,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 653.6686317162354,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01870798612342,
+      "fused_lon": 29.008939669706816,
+      "heading_deg": 0.0,
+      "lat": 41.01870798612342,
+      "lon": 29.008939669706816,
+      "optimal_speed_kmh": 45.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 886.8849122212904,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 5.120899145218638,
+      "target_speed_kmh": 45.0,
+      "time_sec": 2.3000000000000003,
+      "turn_deg": 0.0,
+      "waypoint": 24,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01923,
+      "original_lon": 29.00886,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5911107540308607,
+      "distance": 23.549629298890807,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 680.8319475434405,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01891559028639,
+      "fused_lon": 29.00888576879477,
+      "heading_deg": 0.0,
+      "lat": 41.01891559028639,
+      "lon": 29.00888576879477,
+      "optimal_speed_kmh": 45.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 886.666131046291,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 5.3336990166697476,
+      "target_speed_kmh": 45.0,
+      "time_sec": 2.4000000000000004,
+      "turn_deg": 0.0,
+      "waypoint": 25,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.0194,
+      "original_lon": 29.00876,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5909624387467997,
+      "distance": 23.886532923822024,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 707.9884478375571,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.019117913200475,
+      "fused_lon": 29.00879103815634,
+      "heading_deg": 0.0,
+      "lat": 41.019117913200475,
+      "lon": 29.00879103815634,
+      "optimal_speed_kmh": 45.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 886.4436581201995,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 5.546445494618595,
+      "target_speed_kmh": 45.0,
+      "time_sec": 2.5,
+      "turn_deg": 0.0,
+      "waypoint": 26,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01959,
+      "original_lon": 29.00857,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5908116647767196,
+      "distance": 28.316754999953545,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 735.1380196145728,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01935553924034,
+      "fused_lon": 29.008670726709436,
+      "heading_deg": 0.0,
+      "lat": 41.01935553924034,
+      "lon": 29.008670726709436,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 886.2174971650795,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 5.759137693938215,
+      "target_speed_kmh": 50.0,
+      "time_sec": 2.6,
+      "turn_deg": 0.0,
+      "waypoint": 27,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01991,
+      "original_lon": 29.00839,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5906584346424544,
+      "distance": 31.812205256011524,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 762.2805500063612,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.019617877468235,
+      "fused_lon": 29.008520508696606,
+      "heading_deg": 0.0,
+      "lat": 41.019617877468235,
+      "lon": 29.008520508696606,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 885.9876519636815,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 5.971774730409499,
+      "target_speed_kmh": 50.0,
+      "time_sec": 2.7,
+      "turn_deg": 0.0,
+      "waypoint": 28,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.02023,
+      "original_lon": 29.00817,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.590502750906206,
+      "distance": 26.953658902412457,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 789.4159262625361,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01984051422777,
+      "fused_lon": 29.008394356087624,
+      "heading_deg": 0.0,
+      "lat": 41.01984051422777,
+      "lon": 29.008394356087624,
+      "optimal_speed_kmh": 20.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 885.754126359309,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 6.1843557207357325,
+      "target_speed_kmh": 20.0,
+      "time_sec": 2.8000000000000003,
+      "turn_deg": 0.0,
+      "waypoint": 29,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.02036,
+      "original_lon": 29.0081,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 0.5903446161704548,
+      "distance": 20.864816860389624,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 816.5440357523033,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.02001735995944,
+      "fused_lon": 29.008312049261338,
+      "heading_deg": 0.0,
+      "lat": 41.02001735995944,
+      "lon": 29.008312049261338,
+      "optimal_speed_kmh": 35.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 885.5169242556822,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 6.396879782557097,
+      "target_speed_kmh": 35.0,
+      "time_sec": 2.9000000000000004,
+      "turn_deg": 0.0,
+      "waypoint": 30,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.02043,
+      "original_lon": 29.00812,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.336369409042535,
+      "distance": 20.133341363908784,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 877.954226773363,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.020198151971606,
+      "fused_lon": 29.008305434482935,
+      "heading_deg": 0.0,
+      "lat": 41.020198151971606,
+      "lon": 29.008305434482935,
+      "optimal_speed_kmh": 35.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2004.5541135638027,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 6.877972769812409,
+      "target_speed_kmh": 35.0,
+      "time_sec": 3.0,
+      "turn_deg": 0.0,
+      "waypoint": 31,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.02062,
+      "original_lon": 29.00829,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.3549590593528429,
+      "distance": 16.635640467553454,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 940.2186681003977,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.02034570638013,
+      "fused_lon": 29.008336804138054,
+      "heading_deg": 0.0,
+      "lat": 41.02034570638013,
+      "lon": 29.008336804138054,
+      "optimal_speed_kmh": 35.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2032.4385890292642,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 7.365758031179433,
+      "target_speed_kmh": 35.0,
+      "time_sec": 3.1,
+      "turn_deg": 0.0,
+      "waypoint": 32,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.02069,
+      "original_lon": 29.00841,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.373794273016913,
+      "distance": 13.414250331684414,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 1003.348644107594,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.020457994466085,
+      "fused_lon": 29.00839476289664,
+      "heading_deg": 0.0,
+      "lat": 41.020457994466085,
+      "lon": 29.00839476289664,
+      "optimal_speed_kmh": 35.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2060.6914095253696,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 7.860323969465522,
+      "target_speed_kmh": 35.0,
+      "time_sec": 3.2,
+      "turn_deg": 0.0,
+      "waypoint": 33,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.02072,
+      "original_lon": 29.00853,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.3928779200262085,
+      "distance": 11.746592793211638,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 1067.3555710538712,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.020533596126256,
+      "fused_lon": 29.008492334027647,
+      "heading_deg": 0.0,
+      "lat": 41.020533596126256,
+      "lon": 29.008492334027647,
+      "optimal_speed_kmh": 42.82927190514403,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2089.3168800393128,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 8.361760020674957,
+      "target_speed_kmh": 42.82927190514403,
+      "time_sec": 3.3000000000000003,
+      "turn_deg": 0.0,
+      "waypoint": 34,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.02071,
+      "original_lon": 29.00872,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.4122128930148599,
+      "distance": 11.603966793456715,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 1132.2509981233825,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.02057751728838,
+      "fused_lon": 29.00861763381935,
+      "heading_deg": 0.0,
+      "lat": 41.02057751728838,
+      "lon": 29.00861763381935,
+      "optimal_speed_kmh": 35.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2118.3193395222897,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 8.870156662160307,
+      "target_speed_kmh": 35.0,
+      "time_sec": 3.4000000000000004,
+      "turn_deg": 0.0,
+      "waypoint": 35,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.02068,
+      "original_lon": 29.00891,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.4318021070961553,
+      "distance": 13.445098441073092,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 1198.0466084584973,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.020569262101866,
+      "fused_lon": 29.008777343673547,
+      "heading_deg": 0.0,
+      "lat": 41.020569262101866,
+      "lon": 29.008777343673547,
+      "optimal_speed_kmh": 35.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2147.703160644233,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 9.385605420714924,
+      "target_speed_kmh": 35.0,
+      "time_sec": 3.5,
+      "turn_deg": 0.0,
+      "waypoint": 36,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.02055,
+      "original_lon": 29.00915,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.4516484996850443,
+      "distance": 21.164321305781865,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 1264.7542201846318,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.02045848347131,
+      "fused_lon": 29.008982140571483,
+      "heading_deg": 0.0,
+      "lat": 41.02045848347131,
+      "lon": 29.008982140571483,
+      "optimal_speed_kmh": 49.10632249775084,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2177.4727495275665,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 9.908198880601539,
+      "target_speed_kmh": 49.10632249775084,
+      "time_sec": 3.6,
+      "turn_deg": 0.0,
+      "waypoint": 37,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.0202,
+      "original_lon": 29.00946,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.4717550303062226,
+      "distance": 24.170829524593223,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 1332.385787426256,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.02031193842991,
+      "fused_lon": 29.00919449840004,
+      "heading_deg": 0.0,
+      "lat": 41.02031193842991,
+      "lon": 29.00919449840004,
+      "optimal_speed_kmh": 49.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2207.632545459334,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 10.438030691511779,
+      "target_speed_kmh": 49.0,
+      "time_sec": 3.7,
+      "turn_deg": 0.0,
+      "waypoint": 38,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01997,
+      "original_lon": 29.00969,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.4921246803873622,
+      "distance": 21.71045877177813,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 1,
+        "rpm": 1400.9534013134046,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.02018535690094,
+      "fused_lon": 29.009391148880027,
+      "heading_deg": 0.0,
+      "lat": 41.02018535690094,
+      "lon": 29.009391148880027,
+      "optimal_speed_kmh": 59.33595065771511,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2238.1870205810433,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 10.97519557645123,
+      "target_speed_kmh": 59.33595065771511,
+      "time_sec": 3.8000000000000003,
+      "turn_deg": 0.0,
+      "waypoint": 39,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01989,
+      "original_lon": 29.00985,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.2529323227894333,
+      "distance": 34.929535390599135,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 848.7487512206362,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.020009749830656,
+      "fused_lon": 29.009735804216017,
+      "heading_deg": 0.0,
+      "lat": 41.020009749830656,
+      "lon": 29.009735804216017,
+      "optimal_speed_kmh": 50.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1879.39848418415,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 11.426251212655426,
+      "target_speed_kmh": 50.0,
+      "time_sec": 3.9000000000000004,
+      "turn_deg": 0.0,
+      "waypoint": 40,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.0196,
+      "original_lon": 29.01054,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.2653406765296549,
+      "distance": 31.583779950333007,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 882.5852447188838,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01985982488146,
+      "fused_lon": 29.010055062951214,
+      "heading_deg": 0.0,
+      "lat": 41.01985982488146,
+      "lon": 29.010055062951214,
+      "optimal_speed_kmh": 63.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1898.0110147944822,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 11.8817738562061,
+      "target_speed_kmh": 63.0,
+      "time_sec": 4.0,
+      "turn_deg": 0.0,
+      "waypoint": 41,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01951,
+      "original_lon": 29.0108,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.240117374534244,
+      "distance": 28.783179856058553,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 915.7472415303478,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01973687741702,
+      "fused_lon": 29.01035654406585,
+      "heading_deg": 0.0,
+      "lat": 41.01973687741702,
+      "lon": 29.01035654406585,
+      "optimal_speed_kmh": 20.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1860.176061801366,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 12.32821611103843,
+      "target_speed_kmh": 20.0,
+      "time_sec": 4.1000000000000005,
+      "turn_deg": 0.0,
+      "waypoint": 42,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01945,
+      "original_lon": 29.01106,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.235888378443132,
+      "distance": 22.538573795833653,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 948.7961506956185,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01961181419191,
+      "fused_lon": 29.010567580846097,
+      "heading_deg": 0.0,
+      "lat": 41.01961181419191,
+      "lon": 29.010567580846097,
+      "optimal_speed_kmh": 46.288992475460375,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1853.832567664698,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 12.773135927277957,
+      "target_speed_kmh": 46.288992475460375,
+      "time_sec": 4.2,
+      "turn_deg": 0.0,
+      "waypoint": 43,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01932,
+      "original_lon": 29.01106,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.2481140344900805,
+      "distance": 21.810301021483657,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 982.1719863076695,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01945226993434,
+      "fused_lon": 29.010718306592267,
+      "heading_deg": 0.0,
+      "lat": 41.01945226993434,
+      "lon": 29.010718306592267,
+      "optimal_speed_kmh": 57.28060570832348,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1872.1710517351207,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 13.222456979694385,
+      "target_speed_kmh": 57.28060570832348,
+      "time_sec": 4.3,
+      "turn_deg": 0.0,
+      "waypoint": 44,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01908,
+      "original_lon": 29.01107,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.2603052638825154,
+      "distance": 28.30005663343956,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 1015.8738277628299,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.019211588954036,
+      "fused_lon": 29.010826814614585,
+      "heading_deg": 0.0,
+      "lat": 41.019211588954036,
+      "lon": 29.010826814614585,
+      "optimal_speed_kmh": 68.80603762338694,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1890.457895823773,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 13.676166874692093,
+      "target_speed_kmh": 68.80603762338694,
+      "time_sec": 4.4,
+      "turn_deg": 0.0,
+      "waypoint": 45,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01865,
+      "original_lon": 29.01108,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.272459426534747,
+      "distance": 25.251177341704096,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 1049.900683858859,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.018992112267824,
+      "fused_lon": 29.01090277023021,
+      "heading_deg": 0.0,
+      "lat": 41.018992112267824,
+      "lon": 29.01090277023021,
+      "optimal_speed_kmh": 70.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1908.6891398021207,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 14.134252268244602,
+      "target_speed_kmh": 70.0,
+      "time_sec": 4.5,
+      "turn_deg": 0.0,
+      "waypoint": 46,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01848,
+      "original_lon": 29.01108,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.28457384390702,
+      "distance": 54.42799341958184,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 1084.2514917666458,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01850847858748,
+      "fused_lon": 29.010997939161147,
+      "heading_deg": 0.0,
+      "lat": 41.01850847858748,
+      "lon": 29.010997939161147,
+      "optimal_speed_kmh": 70.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1926.86076586053,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 14.59669885205113,
+      "target_speed_kmh": 70.0,
+      "time_sec": 4.6000000000000005,
+      "turn_deg": 0.0,
+      "waypoint": 47,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01738,
+      "original_lon": 29.01122,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.2966458009250568,
+      "distance": 51.17212640663489,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 1118.9251160532376,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.018052935011234,
+      "fused_lon": 29.011079557412803,
+      "heading_deg": 0.0,
+      "lat": 41.018052935011234,
+      "lon": 29.011079557412803,
+      "optimal_speed_kmh": 70.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1944.968701387585,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 15.06349134038415,
+      "target_speed_kmh": 70.0,
+      "time_sec": 4.7,
+      "turn_deg": 0.0,
+      "waypoint": 48,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01699,
+      "original_lon": 29.01127,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.3086725479750816,
+      "distance": 37.54229985885089,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 1153.9203477582191,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.017716054507865,
+      "fused_lon": 29.01105869018896,
+      "heading_deg": 0.0,
+      "lat": 41.017716054507865,
+      "lon": 29.01105869018896,
+      "optimal_speed_kmh": 70.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1963.0088219626223,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 15.534613457655178,
+      "target_speed_kmh": 70.0,
+      "time_sec": 4.800000000000001,
+      "turn_deg": 0.0,
+      "waypoint": 49,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01693,
+      "original_lon": 29.01101,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.320651302973577,
+      "distance": 27.292925994730975,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 1189.2359035254417,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01747123815551,
+      "fused_lon": 29.011041083132273,
+      "heading_deg": 0.0,
+      "lat": 41.01747123815551,
+      "lon": 29.011041083132273,
+      "optimal_speed_kmh": 70.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1980.9769544603653,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 16.010047926725665,
+      "target_speed_kmh": 70.0,
+      "time_sec": 4.9,
+      "turn_deg": 0.0,
+      "waypoint": 50,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.0169,
+      "original_lon": 29.011,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.332579253510864,
+      "distance": 28.104776334810317,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 1224.870424792065,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01721886670886,
+      "fused_lon": 29.01103175819259,
+      "heading_deg": 0.0,
+      "lat": 41.01721886670886,
+      "lon": 29.01103175819259,
+      "optimal_speed_kmh": 70.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 1998.868880266296,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 16.489776457989578,
+      "target_speed_kmh": 70.0,
+      "time_sec": 5.0,
+      "turn_deg": 0.0,
+      "waypoint": 51,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01663,
+      "original_lon": 29.01101,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.3444535590673707,
+      "distance": 28.45649886299704,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 1260.8224770368765,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.0169642066962,
+      "fused_lon": 29.011061230734814,
+      "heading_deg": 0.0,
+      "lat": 41.0169642066962,
+      "lon": 29.011061230734814,
+      "optimal_speed_kmh": 70.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2016.680338601056,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 16.973779739253832,
+      "target_speed_kmh": 70.0,
+      "time_sec": 5.1000000000000005,
+      "turn_deg": 0.0,
+      "waypoint": 52,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01637,
+      "original_lon": 29.01113,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.3562713533012694,
+      "distance": 27.81429622081186,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 1297.0905490897728,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01671694468734,
+      "fused_lon": 29.01110886151437,
+      "heading_deg": 0.0,
+      "lat": 41.01671694468734,
+      "lon": 29.01110886151437,
+      "optimal_speed_kmh": 70.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2034.407029951904,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 17.46203742644229,
+      "target_speed_kmh": 70.0,
+      "time_sec": 5.2,
+      "turn_deg": 0.0,
+      "waypoint": 53,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01614,
+      "original_lon": 29.01122,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    },
+    {
+      "acceleration_ms2": 1.368029746405956,
+      "distance": 21.912608768357057,
+      "elevation": 0.0,
+      "engine": {
+        "brake_percent": 0.0,
+        "gear": 2,
+        "rpm": 1333.6730525042906,
+        "throttle_percent": 0.0
+      },
+      "fused_lat": 41.01652286128114,
+      "fused_lon": 29.01115240306006,
+      "heading_deg": 0.0,
+      "lat": 41.01652286128114,
+      "lon": 29.01115240306006,
+      "optimal_speed_kmh": 70.0,
+      "physics": {
+        "drag_force_n": 0.0,
+        "engine_force_n": 0.0,
+        "grade_force_n": 0.0,
+        "net_force_n": 2052.044619608934,
+        "rolling_force_n": 0.0
+      },
+      "slope_deg": 0.0,
+      "speed_kmh": 17.954528135148433,
+      "target_speed_kmh": 70.0,
+      "time_sec": 5.300000000000001,
+      "turn_deg": 0.0,
+      "waypoint": 54,
+      "kalman_accuracy": 1.7999999999999998,
+      "original_lat": 41.01607,
+      "original_lon": 29.011254,
+      "road_analysis": {
+        "base_speed_limit": 50.0,
+        "slope_factor": 1.0,
+        "curve_factor": 1.0,
+        "weather_factor": 0.95
+      }
+    }
+  ],
+  "statistics": {
+    "navigation_system": "Kalman Filter + Smart Target + Real Motor",
+    "kalman_filter": "✅ Aktif",
+    "smart_targeting": "✅ Aktif",
+    "real_motor_physics": "✅ Aktif",
+    "total_points": 54
+  }
+}

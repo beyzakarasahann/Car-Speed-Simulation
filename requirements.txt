@@ -1,0 +1,82 @@
+# Car Speed Simulation - Complete Project Requirements
+# ===================================================
+
+# BACKEND DEPENDENCIES
+# ===================
+# Core Framework
+fastapi==0.116.1
+uvicorn[standard]==0.32.1
+
+# HTTP Client
+httpx==0.28.1
+
+# Data Processing
+numpy==2.3.2
+pydantic==2.11.7
+
+# Geospatial and Mapping
+flexpolyline==0.1.0
+openrouteservice==2.3.3
+
+# Image Processing
+Pillow==11.3.0
+
+# Environment and Configuration
+python-dotenv==1.1.1
+
+# Logging and Utilities
+rich==14.1.0
+
+# Machine Learning (for EKF)
+scipy==1.14.0
+
+# Additional utilities
+requests==2.32.4
+requests-cache==1.2.1
+
+# SVG generation
+svgwrite==1.4.3
+
+# Machine ID (for licensing)
+py-machineid==0.8.0
+
+# Tree visualization
+tree==0.2.4
+
+# Scientific computing
+eigen==0.1.1
+
+# Stonefish runtime
+stonefish-runtime==0.3.3
+
+# Development and Testing
+pytest==8.2.0
+pytest-asyncio==0.24.0
+
+# FRONTEND DEPENDENCIES (via pip)
+# ==============================
+# Node.js dependencies will be installed via npm, but here are the key ones:
+# - framer-motion (animations)
+# - @react-three/fiber (3D rendering)
+# - @react-three/drei (3D components)
+# - react-leaflet (maps)
+# - three.js (3D graphics)
+# - tailwindcss (styling)
+
+# SYSTEM REQUIREMENTS
+# ===================
+# - Node.js 18+ (for frontend)
+# - Python 3.12+ (for backend)
+# - CMake (for C++ physics engine)
+# - Git
+
+# INSTALLATION COMMANDS
+# =====================
+# Backend:
+# pip install -r requirements.txt
+#
+# Frontend:
+# cd frontend && npm install
+#
+# C++ Physics Engine:
+# cd backend/cpp && mkdir build && cd build && cmake .. && make

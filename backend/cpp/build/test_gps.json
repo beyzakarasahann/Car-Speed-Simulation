@@ -1,0 +1,22 @@
+{
+  "gps_measurements": [
+    {
+      "lat": 41.015,
+      "lon": 29.01,
+      "timestamp": 0.0,
+      "accuracy": 3.0
+    },
+    {
+      "lat": 41.0151,
+      "lon": 29.0101,
+      "timestamp": 0.1,
+      "accuracy": 3.0
+    },
+    {
+      "lat": 41.0152,
+      "lon": 29.0102,
+      "timestamp": 0.2,
+      "accuracy": 3.0
+    }
+  ]
+}

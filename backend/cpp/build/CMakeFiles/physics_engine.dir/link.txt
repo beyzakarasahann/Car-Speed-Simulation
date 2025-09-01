@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/physics_engine.dir/physics_engine.cpp.o CMakeFiles/physics_engine.dir/physics_main.cpp.o -o physics_engine

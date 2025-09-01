@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: stonefish-runtime
+Version: 0.3.3
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Rust
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Classifier: Programming Language :: Python :: 3.14
+License-File: LICENSE
+License-File: THIRD-PARTY-LICENSES.html
+License: LicenseRef-MIT-no-modify
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown; charset=UTF-8; variant=GFM
+
+# Stonefish Runtime
+

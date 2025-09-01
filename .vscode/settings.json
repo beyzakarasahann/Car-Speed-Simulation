@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "__node_handle": "cpp",
+        "optional": "cpp"
+    },
+    "cmake.sourceDirectory": "/Users/beyza/Desktop/SmartAutoBus/backend/routes/simulation"
+}
