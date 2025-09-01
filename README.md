@@ -382,9 +382,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/username/car-speed-simulation/issues)
-- **Documentation**: [Project Wiki](https://github.com/username/car-speed-simulation/wiki)
-- **Email**: support@speedsimulator.tech
+- **Email**: beyza590beyza@gmail.com
 
 ---
 
